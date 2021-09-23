@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273767132552",
+    "project_id": "androiduber-80521",
+    "storage_bucket": "androiduber-80521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273767132552:android:8f94a50932190c465e1e3d",
+        "android_client_info": {
+          "package_name": "com.example.androiduber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273767132552-iha0s12qoe0a3i647bpjt9j97tib3cnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6iIbyZ8CfASGwai1Fhe7CUScLcGr82aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273767132552-iha0s12qoe0a3i647bpjt9j97tib3cnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

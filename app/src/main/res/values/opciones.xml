@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="lugaresCercanos">
+        <item></item>
+        <item>Seleccione:</item>
+        <item>Sauna Piscina Orlando</item>
+        <item>Wara Warita</item>
+        <item>Transformers</item>
+        <item>Cancha Alto Pampahasi</item>
+    </string-array>
+    
+</resources>
